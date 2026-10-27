@@ -135,6 +135,7 @@ Nocode enables programmers and non-programmers to create application software th
 ## Websites
 
 - [8b](https://8b.com/) - Very cheap website builder with code export.
+- [Benchlight](https://benchlight.dev/) - Website builder and host for small businesses, with one free site on a benchlight.page address.
 - [Cactal](https://cactal.ai/) - The website platform for AI agents.
 - [Carrd](https://carrd.co/) - For personal one-page websites.
 - [Duda](https://www.duda.co/) - Professional website builder for all kinds of business.
